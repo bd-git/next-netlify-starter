@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Did Randy Win The League Yet?" />
         <p className="description">
-          <b>NO</b>
+          <H1>NO</H1>
         </p>
       </main>
 
